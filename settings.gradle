@@ -1,0 +1,3 @@
+include ':corebase'
+include ':app'
+rootProject.name = "CoreBaseExample"
